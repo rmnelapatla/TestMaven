@@ -13,5 +13,6 @@ public class Mytest2 {
 	
 	public void printtable() {
 		
+		System.out.println("");
 	}
 }
